@@ -1,0 +1,33 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding: 1rem 2rem; */
+    background-color: #222;
+    color: #fff;
+}
+
+.head {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin-left: 2rem;
+
+    color: #fff;
+    font-size: 3rem;
+    font-weight: bold;
+    
+
+}
+
+nav ul li :hover {
+    color: white;
+
+}
