@@ -1,7 +1,7 @@
 import axios from "axios"
 
 
-let URL = "http://localhost:4000";
+let URL = "https://merncurd.onrender.com";
 
 export const adduser=async (data)=>{
     try{
